@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\GridTetromino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\GridTetromino.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TetrisGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\TetrisGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Gameboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\Gameboard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Tetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\Tetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TestSuite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\TestSuite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TetrisGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\TetrisGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\GridTetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E4D8A8B6-4763-4701-815E-CE8B6EC227C7}|Lab08\\Lab08.vcxproj|solutionrelative:Lab08\\GridTetromino.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Source.cpp",
+              "RelativeDocumentMoniker": "Lab08\\Source.cpp",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Source.cpp",
+              "RelativeToolTip": "Lab08\\Source.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAB4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T20:09:30.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TetrisGame.cpp",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TetrisGame.cpp",
+              "RelativeDocumentMoniker": "Lab08\\TetrisGame.cpp",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TetrisGame.cpp",
+              "RelativeToolTip": "Lab08\\TetrisGame.cpp",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAAALcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T16:32:50.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tetromino.cpp",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Tetromino.cpp",
+              "RelativeDocumentMoniker": "Lab08\\Tetromino.cpp",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Tetromino.cpp",
+              "RelativeToolTip": "Lab08\\Tetromino.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-31T16:51:10.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TetrisGame.h",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TetrisGame.h",
+              "RelativeDocumentMoniker": "Lab08\\TetrisGame.h",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TetrisGame.h",
+              "RelativeToolTip": "Lab08\\TetrisGame.h",
+              "ViewState": "AgIAAMUAAAAAAAAAAAAAAOYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T16:31:21.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestSuite.h",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TestSuite.h",
+              "RelativeDocumentMoniker": "Lab08\\TestSuite.h",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\TestSuite.h",
+              "RelativeToolTip": "Lab08\\TestSuite.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-31T16:31:05.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Gameboard.cpp",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Gameboard.cpp",
+              "RelativeDocumentMoniker": "Lab08\\Gameboard.cpp",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\Gameboard.cpp",
+              "RelativeToolTip": "Lab08\\Gameboard.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAlwEcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T15:38:07.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GridTetromino.h",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\GridTetromino.h",
+              "RelativeDocumentMoniker": "Lab08\\GridTetromino.h",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\GridTetromino.h",
+              "RelativeToolTip": "Lab08\\GridTetromino.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-30T15:23:09.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridTetromino.cpp",
+              "DocumentMoniker": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\GridTetromino.cpp",
+              "RelativeDocumentMoniker": "Lab08\\GridTetromino.cpp",
+              "ToolTip": "C:\\Users\\jamul\\Downloads\\lab08\\lab08\\Lab08\\Lab08\\GridTetromino.cpp",
+              "RelativeToolTip": "Lab08\\GridTetromino.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-30T15:23:08.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

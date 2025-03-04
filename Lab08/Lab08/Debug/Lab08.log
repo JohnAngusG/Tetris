@@ -1,0 +1,16 @@
+﻿  Gameboard.cpp
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\Gameboard.cpp(31,5): warning C4002: too many arguments for function-like macro invocation 'assert'
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\Gameboard.cpp(36,5): warning C4002: too many arguments for function-like macro invocation 'assert'
+  GridTetromino.cpp
+  Point.cpp
+  Source.cpp
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\Source.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\Source.cpp(41,12): warning C4101: 'guiEvent': unreferenced local variable
+  TestSuite.cpp
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\TestSuite.cpp(50,20): warning C4018: '<': signed/unsigned mismatch
+  TetrisGame.cpp
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\TetrisGame.cpp(199,85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\jamul\Downloads\lab08\lab08\Lab08\Lab08\TetrisGame.cpp(199,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Tetromino.cpp
+  Generating Code...
+  Lab08.vcxproj -> C:\Users\jamul\Downloads\lab08\lab08\Lab08\Debug\Lab08.exe
